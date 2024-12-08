@@ -1,5 +1,26 @@
 # Final_project-
 Game_description 
+Description
+Lyly's Quest is a fantasy adventure game where players make decisions that affect the outcome of the story.  
+How to Start the Game
+1. Ensure Python is installed.
+2. Run the game by executing:
+   ```bash
+   python adventure_game.py
+
+Current Status: The game includes five playable chapters with multiple decision paths and endings.
+Future Development:
+Add more chapters and decision paths.
+Implement a save/load feature to track progress.
+Copy code
+Commit and Push:
+
+Stage, commit, and push your files to the repository.
+bash
+Copy code
+git add .
+git commit -m "Add Adventure Game and README"
+git push origin main
 
 Name of Project: Lyly's Quest
 Description:
